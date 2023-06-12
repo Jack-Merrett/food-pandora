@@ -4,6 +4,10 @@ Food Pandora is an web application that well suggest personalize or similar rest
 
 <details>
 <summary>Table of Contents</summary>
+
+- [Food Pandora](#food-pandora)
+  - [Features](#features)
+  - [Team Members](#team-members)
 </details>
 
 
