@@ -2,6 +2,11 @@
 
 Food Pandora is an web application that well suggest personalize or similar restaurants based on your taste.
 
+<details>
+<summary>Table of Contents</summary>
+</details>
+
+
 ## Features
 
 * Roulette
