@@ -1,0 +1,3 @@
+[submodule "Web/Web/OniGiri"]
+	path = Web/Web/OniGiri
+	url = git@github.com:Wolfinbarger/OniGiri.git
