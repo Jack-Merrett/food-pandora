@@ -21,6 +21,5 @@ Food Pandora is an web application that well suggest personalize or similar rest
 
 * Daniel Scharf
 * Jack Merrett
-* Rukun Zhang
 * X'Zaiver Wolfinbarger
 
