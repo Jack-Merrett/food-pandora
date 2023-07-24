@@ -1,25 +1,23 @@
+# Food-Pandora
 
-# Food Pandora
+Food-Pandora is a web application that provides personalized restaurant recommendations based on user preferences, similar to the popular music app Pandora. The app includes a swipe left and right feature, similar to Tinder or Bumble, to help users easily review and select their preferred restaurant choices.
 
-Food Pandora is an web application that well suggest personalize or similar restaurants based on your taste.
+## Table of Contents
 
-<details>
-<summary>Table of Contents</summary>
-
-- [Food Pandora](#food-pandora)
-  - [Features](#features)
-  - [Team Members](#team-members)
-</details>
-
+- [Features](#features)
+  - [Roulette](#roulette)
+- [Team Members](#team-members)
 
 ## Features
 
-* Roulette
-  * Allows to set a price range and then randomly generates a suggested order. This order is then reviewed before being submitted.
+### Roulette
+
+The Roulette feature allows users to set a price range and then generates a randomly suggested restaurant order. Users can review the generated order and have the option to submit it. This feature provides a fun and exciting way for users to explore new restaurants based on their budget preferences.
 
 ## Team Members
 
-* Daniel Scharf
-* Jack Merrett
-* X'Zaiver Wolfinbarger
+- [Daniel Scharf](https://github.com/DanielBScharf)
+- [Jack Merrett](https://github.com/Jack-Merrett)
+- [X'Zaiver Wolfinbarger](https://github.com/Wolfinbarger)
+
 
